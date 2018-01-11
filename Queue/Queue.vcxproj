@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2A40800F-F834-4C17-8EF3-20B8777A46D5}</ProjectGuid>
-    <RootNamespace>Algorithm</RootNamespace>
+    <ProjectGuid>{09DC9012-10CA-4650-B24A-055B6020DA4F}</ProjectGuid>
+    <RootNamespace>Queue</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
